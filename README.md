@@ -6,3 +6,5 @@ There are two ways to send mail through the send grid.
 2.Through the smtp client.
 This code implemented sending mail through the smtp server,API and the Reach of the mail through the event hook notification.
 
+Applay the nessary API keys in the web cofig file to run the code sucessfully.
+
